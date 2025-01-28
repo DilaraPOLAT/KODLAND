@@ -7,4 +7,4 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     print("YANLIŞ GİRDİNİZ")
-    
+print("Program bitti")    
